@@ -95,7 +95,7 @@ Become a world-class Software Engineer specializing in Artificial Intelligence, 
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/phvinoya/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
