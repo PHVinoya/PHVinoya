@@ -1,23 +1,118 @@
-## Hi there 👋
+# Hi there! 👋 I'm Prince Harold Vinoya
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/prince.harold.vinoya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zx._rld) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PHVinoya&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PHVinoya&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PHVinoya&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PHVinoya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PHVinoya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Developer;Data+Analyst;SEO+Enthusiast;Full-Stack+Developer;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PHVinoya&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 BS Computer Science Graduate from the Philippines
+
+💻 Passionate about building modern web applications, AI-powered solutions, and data-driven applications.
+
+📚 Currently learning:
+- Full Stack Development
+- Artificial Intelligence
+- Generative AI
+- AI Engineering
+- Data Analytics
+- Data Engineering
+- Search Engine Optimization (SEO)
+
+🎯 **Career Goal**
+
+Become a world-class Software Engineer specializing in Artificial Intelligence, Full-Stack Development, and Data Analytics while building impactful software that solves real-world problems.
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,cs,cpp" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
+</p>
+
+### 📊 Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models (LLMs)
+- ⚡ AI Engineering
+- 📈 Data Analytics
+- 🏗️ Data Engineering
+- 🔍 Search Engine Optimization
+- ☁️ Cloud Computing
+
+---
+
+## 🎯 2026 Goals
+
+- 📚 Keep learning new technologies every day
+- 🚀 Build AI-powered web applications
+- 🌍 Contribute to Open Source Projects
+- 📊 Master Data Analytics and Visualization
+- 🤖 Learn Machine Learning & Deep Learning
+- 🔍 Strengthen SEO knowledge
+
+
+---
+
+## 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/PHVinoya">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:haroldvinoya23@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Favorite Quote
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PHVinoya&label=Profile%20Views&color=3B82F6&style=flat" />
+</p>
